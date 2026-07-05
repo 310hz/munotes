@@ -214,6 +214,11 @@ Methods are the same as other classes.
 - Fix a bug that `append()` method of `Notes` class does not work
 - Modify `__repr__` method
 
-### [2.0.2](https://pypi.org/project/munotes/2.0.2/) (2024-05-21, Latest)
+### [2.0.2](https://pypi.org/project/munotes/2.0.2/) (2024-05-21)
 
 - Fix a bug that chord names in `Track` and `Stream` are not update when transposed
+
+### [2.0.3](https://pypi.org/project/munotes/2.0.3/) (2026-07-05, Latest)
+
+- Fix `__all__` exports
+- Update GitHub Pages URL

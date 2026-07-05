@@ -11,9 +11,9 @@ sys.path.insert(0, os.path.abspath('../../'))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'munotes'
-copyright = '2023, misya11p'
-author = 'misya11p'
-release = '2.0.2'
+copyright = '2023-2026, 310hz'
+author = '310hz'
+release = '2.0.3'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

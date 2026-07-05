@@ -5,13 +5,13 @@ from .envelope import Envelope
 
 __all__ = [
     "Note",
-    "Rest"
+    "Rest",
     "Notes",
     "Chord",
     "Track",
     "Stream",
-    "chord_names"
-    "Envelope"
+    "chord_names",
+    "Envelope",
 ]
 
-__version__ = "2.0.2"
+__version__ = "2.0.3"

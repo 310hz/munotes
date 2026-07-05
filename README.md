@@ -10,7 +10,7 @@
 This library is for handling notes and chords in Python.
 
 - [PyPI](https://pypi.org/project/munotes/)
-- [API Reference](https://misya11p.github.io/munotes/)
+- [API Reference](https://310hz.github.io/munotes/)
 
 ## General Usage
 
@@ -39,7 +39,6 @@ note.transpose(2)
 print(note) # B4
 
 ```
-
 
 - `render()`
 

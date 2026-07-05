@@ -9,7 +9,6 @@ requires = [
     "ipython"
 ]
 
-
 setup(
     name="munotes",
     description="Handle musical notes and their sounds in Python",
@@ -19,12 +18,12 @@ setup(
     package_dir={"munotes": "munotes"},
     python_requires=">=3.7",
     install_requires=requires,
-    url="https://github.com/misya11p/munotes",
+    url="https://github.com/310hz/munotes",
     project_urls={
-        "Source": "https://github.com/misya11p/munotes",
-        "API Reference": "https://misya11p.github.io/munotes/",
+        "Source": "https://github.com/310hz/munotes",
+        "API Reference": "https://310hz.github.io/munotes/",
     },
-    author="misya11p",
+    author="310hz",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Programming Language :: Python",
